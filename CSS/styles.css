@@ -1,0 +1,26 @@
+
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color:#66BFBF;
+}
+h3 {
+  color:#66BFBF;
+}
+
+hr {
+  /* background-color: white; */
+  border-style: none;
+  height: 2px;
+  /* width: 30%; */
+  width: 24px;
+  border-top: dotted white 4px;
+}
+
+img {
+  height: 300px;
+  border-style: inset;
+  border-width: 10px;
+}
